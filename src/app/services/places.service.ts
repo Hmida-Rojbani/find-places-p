@@ -34,4 +34,10 @@ export class PlacesService {
   getPlaces(){
     return [...this.places];
   }
+
+  getPlace(id: string){
+    return {
+      ...this.places.find(p => p.id === id)
+    };
+  }
 }
