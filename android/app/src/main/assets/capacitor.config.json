@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "BMI_Calc",
+	"appId": "de.tekup.find.places",
+	"appName": "find-places-p",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }
